@@ -1,0 +1,1 @@
+.\protoc.exe  --proto_path=F:\ship\src\main\java\com\sugar\proto\ --java_out=F:\ship\src\main\java\  F:\ship\src\main\java\com\sugar\proto\*.proto

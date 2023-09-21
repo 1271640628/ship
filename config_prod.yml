@@ -1,0 +1,19 @@
+
+# game
+Debug: true
+GameHome: http://39.101.191.99/game
+
+# ip
+Host: localhost
+Port: 18080
+
+# SQL
+JdbcHost: ec2-18-167-53-132.ap-east-1.compute.amazonaws.com
+JdbcPort: 3306
+DataBase: ship
+Username: root
+Password: ship
+#Excel路径
+excel: /home/excel
+
+

@@ -1,0 +1,19 @@
+
+# game
+Debug: true
+GameHome: http://39.101.191.99/game
+
+# ip
+Host: localhost
+Port: 18080
+
+# SQL
+JdbcHost: 120.48.102.8
+JdbcPort: 3306
+DataBase: ship
+Username: ship
+Password: ship
+
+
+#Excel路径
+excel: E:/sugar/excel
